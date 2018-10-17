@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Paypal\Paypal\bin\Debug\Paypal.exe.config
+C:\Users\Lenovo\source\repos\Paypal\Paypal\bin\Debug\Paypal.exe
+C:\Users\Lenovo\source\repos\Paypal\Paypal\bin\Debug\Paypal.pdb
+C:\Users\Lenovo\source\repos\Paypal\Paypal\obj\Debug\Paypal.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Paypal\Paypal\obj\Debug\Paypal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Paypal\Paypal\obj\Debug\Paypal.exe
+C:\Users\Lenovo\source\repos\Paypal\Paypal\obj\Debug\Paypal.pdb
+C:\Users\Lenovo\source\repos\Paypal\Paypal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Paypal\Paypal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Paypal\Paypal\obj\Debug\Paypal.csproj.CopyComplete
